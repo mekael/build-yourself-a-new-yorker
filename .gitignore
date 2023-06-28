@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/tooling/.vs
+/tooling/CSPKWare/bin/
+/tooling/CSPKWare/obj
+/tooling/SetupExtractor/bin/
+/tooling/SetupExtractor/obj
